@@ -1,7 +1,7 @@
 {
-  "name": "adapt-authoring-helloworld",
+  "name": "adapt-authoring-oauth",
   "version": "0.0.1",
-  "description": "An example 'hello world' module for the Adapt authoring tool",
+  "description": "A module to enable authentication/authorisation via OAuth",
   "main": "index.js",
   "adapt_authoring": {
     "module": true,
