@@ -2,6 +2,7 @@
   "name": "adapt-authoring-oauth",
   "version": "0.0.1",
   "description": "A module to enable authentication/authorisation via OAuth",
+  "homepage": "https://github.com/taylortom/adapt-authoring-oauth",
   "main": "index.js",
   "adapt_authoring": {
     "module": true,
