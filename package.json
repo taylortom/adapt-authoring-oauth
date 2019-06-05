@@ -15,6 +15,7 @@
     }
   },
   "dependencies": {
-    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "bcryptjs": "2.4.3"
   }
 }
